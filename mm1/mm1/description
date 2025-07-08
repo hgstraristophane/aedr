@@ -1,14 +1,13 @@
 <examen>
 <exam>
-<url>https:\\rehgiregeririesejrig\hwfggfyeyge\ide_2024.text<\url>
-<titre>IDE 2024<\titre>
+<layout>boutonText<\layout>
+<url>https:\\rehgiregeririesejrig\hwfggfyeyge\medecine_2024.text<\url>
+<titre>IDE<\titre>
 <\exam>
 <exam>
-<url>https:\\rehgiregeririesejrig\hwfggfyeyge\ide_2023.text<\url>
-<titre>IDE 2023<\titre>
+<layout>boutonText<\layout>
+<url>https:\\rehgiregeririesejrig\hwfggfyeyge\medecine_2023.text<\url>
+<titre>medecine<\titre>
 <\exam>
-<exam>
-<url>https:\\rehgiregeririesejrig\hwfggfyeyge\ide_2022.text<\url>
-<titre>IDE 2022<\titre>
-<\exam>
+
 <\examen>
