@@ -2,7 +2,7 @@
 
 <lettre>
 <layout>boutonText</layout>
-<url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettre/lettre1.txt<\url>
+<url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettre/lettre1.txt</url>
 <activity>A2</activity>
 <titre>lettre demande de bourse 1</titre>
 <lienO>aa1aa4aa_biologieexercice1</lienO>
@@ -12,7 +12,7 @@
 
 <lettre>
 <layout>boutonText</layout>
-<url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettre/lettre2.txt<\url>
+<url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettre/lettre2.txt</url>
 <activity>A2</activity>
 <titre>lettre demande de bourse 2</titre>
 <lienO>aa1aa4aa_biologieexercice1</lienO>
