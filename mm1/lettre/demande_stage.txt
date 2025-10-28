@@ -1,0 +1,26 @@
+<lettre>
+<nom>FOTSO NGUEMO BRYAN</nom>
+<numero_tel>TEL:+237 698112233 / +237 675443322</numero_tel>
+<adresse_email>Email: bryan.fotso@gmail.com</adresse_email>
+<adresse>Adresse: Yaoundé | Cameroun</adresse>
+<date>Yaoundé, le 28 octobre 2025</date>
+<destinataire>A monsieur le directeur de l’établissement technique et industriel.</destinataire>
+<objet>Demande de stage de vacance.</objet>
+<paragraphe1>Madame, Monsieur,  
+Actuellement élève en classe de Première scientifique au Lycée Technique de Nkolbisson, je viens très respectueusement solliciter un stage de vacance au sein de votre structure.
+</paragraphe1>
+<paragraphe2>Je suis titulaire du Probatoire série C obtenu en juillet 2025 avec mention Assez Bien. Passionné par les sciences appliquées et les technologies, je souhaite vivement intégrer votre établissement afin de découvrir le monde professionnel et renforcer mes compétences pratiques.
+</paragraphe2>
+<paragraphe3>Ce stage représente pour moi une opportunité précieuse d’observer et de participer aux activités techniques en milieu réel, en complément de ma formation théorique. Je suis particulièrement intéressé par les domaines de l’électronique, de l’électricité et de la mécanique appliquée.
+</paragraphe3>
+<paragraphe4>Je suis motivé, ponctuel, curieux et disposé à apprendre auprès de vos équipes. Je suis convaincu que cette immersion me permettra de mieux orienter mes choix futurs et de développer un esprit professionnel.
+</paragraphe4>
+<paragraphe5>Je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer pour un éventuel entretien.
+</paragraphe5>
+<paragraphe6>Dans l’attente d’une suite favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.</paragraphe6>
+<paragraphe7></paragraphe7>
+<paragraphe8></paragraphe8>
+<paragraphe9></paragraphe9>
+<signature>Respectueusement,  
+FOTSO NGUEMO BRYAN</signature>
+</lettre>

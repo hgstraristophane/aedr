@@ -18,7 +18,23 @@
 <lienO>aa1aa4aa_biologieexercice1</lienO>
 </lettre>
 
+<lettre>
+<layout>boutonText</layout>
+<url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettre/demande_emploi.txt</url>
+<activity>A2</activity>
+<titre>demande d'emploi</titre>
+<lienO>aa1aa4aa_biologieexercice1</lienO>
+</lettre>
 
+
+
+<lettre>
+<layout>boutonText</layout>
+<url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettre/demande_stage.txt</url>
+<activity>A2</activity>
+<titre>demande de stage</titre>
+<lienO>aa1aa4aa_biologieexercice1</lienO>
+</lettre>
 
 
 
