@@ -4,7 +4,7 @@
 <lettre>
 <layout>boutonText</layout>
 <url>https://raw.githubusercontent.com/hgstraristophane/aedr/refs/heads/main/mm1/lettreG/description.text</url>
-<activity>A2</activity>
+<activity>A0</activity>
 <titre>exemples de lettre</titre>
 <lienO>aa1aa4aa_biologieexercice1</lienO>
 </lettre>
@@ -48,3 +48,4 @@
 
 
 </lettre_general>
+
